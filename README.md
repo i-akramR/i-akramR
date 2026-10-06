@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akram Raza</h1>
-<h3 align="center">A passionate Senior DevOps & Platform Engineer from India 🇮🇳
-[
-
-](https://git.io/typing-svg)</h3>
+<h3 align="center">A passionate Senior DevOps & Platform Engineer from India 🇮🇳[](https://git.io/typing-svg)</h3>
 
 - 🌱 I’m currently exploring **AI-powered DevSecOps & Copilot Studio workflows**
 
