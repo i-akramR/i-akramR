@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akram Raza</h1>
-<h3 align="center">A passionate Senior DevOps & Platform Engineer from India </h3>
+<h3 align="center">A passionate Senior DevOps & Platform Engineer from India </h3> <p align="center"> <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="120"
 
 - 🌱 I’m currently exploring **AI-powered DevSecOps & Copilot Studio workflows**
 
