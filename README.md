@@ -1,4 +1,8 @@
-https://github.com/i-akramR/i-akramR/blob/output/github-contribution-grid-snake.svg
+## 🐍 Contribution Snake
+ 
+<p align="center">
+<img src="https://raw.githubusercontentamR/i-akramR/output/github-contribution-grid-snake.svg
+</p>
 
 <h1 align="center">Hi 👋, I'm Akram Raza</h1>
 <h3 align="center">A passionate Senior DevOps & Platform Engineer from India 🇮🇳[](https://git.io/typing-svg)</h3>
