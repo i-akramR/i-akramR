@@ -53,43 +53,6 @@ height="45"/>
  
 <img src="https://github-readme-raph.vercel.app/graph?username=i-akramR&theme=tokyo-night&hide_border=true
  
----
- 
-## ☁️ Azure Journey
- 
-```text
-Azure
-│
-├── Landing Zone
-├── Hub & Spoke
-├── Identity & RBAC
-├── Azure Policies
-├── Terraform
-├── GitHub Actions
-└── AKS
-```
- 
----
- 
-## ⚙️ DevOps Pipeline
- 
-```mermaid
-flowchart LR
- 
-A[Developer] --> B[GitHub Repo]
- 
-B --> C[GitHub Actions]
- 
-C --> D[Terraform]
- 
-D --> E[Azure]
- 
-E --> F[AKS]
- 
-F --> G[Monitoring]
- 
-G --> H[Grafana]
-```
  
 ---
  
@@ -99,4 +62,6 @@ G --> H[Grafana]
 <img src="https://komarev.com/ghpvc/?username=i-akramR&label=Visitors&color=0e75lat
 </p>
  
-<h3 align="center">✨ Automate Everything | Scale Anything ✨</h3>
+<h3 align="center">
+  
+✨ Automate Everything | Scale Anything ✨</h3>
